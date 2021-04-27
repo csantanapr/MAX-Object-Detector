@@ -114,3 +114,9 @@ ENV/
 # local build files
 static/
 assets/data/
+
+# Helm hart dependencies
+**/charts/*.tgz
+
+# Helm temps
+*.orig
