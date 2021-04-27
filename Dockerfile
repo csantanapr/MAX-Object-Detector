@@ -62,5 +62,3 @@ EXPOSE 5000
 
 # hadolint ignore=DL3025
 CMD python app.py
-
-# hadolint ignore=DL3004
